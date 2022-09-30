@@ -1,0 +1,10 @@
+.row {
+    display: flex;
+    padding-left: 14px;
+}
+.row:nth-child(2n) {
+	background-color: rgb(175, 247, 155);
+}
+.col-3 {
+    width: 100%;
+}
